@@ -1,0 +1,10 @@
+JWT_SECRET=randomstring
+TOKEN_DURATION=15m
+REFRESH_TOKEN_DURATION=168h
+
+DB_DRIVER=postgres
+DB_HOST=goapi-8r3ld-postgresql.goapi-8r3ld.svc.cluster.local
+DB_PORT=5432
+DB_USER=josip
+DB_PASSWORD=gX2]zQ9*pV5&sP3*
+DB_NAME=go_api

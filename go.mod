@@ -1,6 +1,6 @@
 module blazperic/radionica
 
-go 1.23.2
+go 1.23
 
 require (
 	cel.dev/expr v0.21.2 // indirect
