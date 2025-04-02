@@ -256,7 +256,7 @@ func SetupRouter(server *Server, jwtSecret string) *gin.Engine {
 			"https://radionica.blazperic.com",
 			"https://radionica-switch-front.vercel.app",
 			"https://test-radionica.vercel.app",
-			"https://demo-switch-rho.vercel.app/"
+			"https://demo-switch-rho.vercel.app"
 		},
 		AllowMethods:     []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"},
 		AllowHeaders:     []string{"Content-Type", "Authorization", "ngrok-skip-browser-warning"},
